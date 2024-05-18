@@ -15,7 +15,8 @@ It may not be possible to generate 10 recommendations for some users. In that ca
 
 ### Instructions for running the code:
 1. Sign up for a free account on Databricks Community Edition.
-2. Upload the file “Mutual_Friends.txt” to Databricks so that it can be used in the cluster.
-3. Import the notebook containing the code (.ipynb).
-4. Set up a Spark cluster.
-5. Execute the code.
+3. Upload the file “Mutual_Friends.txt” to Databricks so that it can be used in the cluster.
+4. Import the notebook containing the code (.ipynb).
+5. Setup/Start a Spark cluster.
+6. Install nltk library (in cluster-> compute -> library)
+7. Execute the code.
